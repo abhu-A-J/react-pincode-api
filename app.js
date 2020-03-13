@@ -1,6 +1,5 @@
 const express = require("express");
 const app = express();
-const fetch = require("isomorphic-unfetch");
 const fs = require("fs");
 
 app.get("/", (req, res) => {
