@@ -1,0 +1,29 @@
+{
+  "name": "react-pincode-api",
+  "version": "1.0.0",
+  "description": "The API build for the react pincode module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhu-A-J/react-pincode-api.git"
+  },
+  "keywords": [
+    "React",
+    "Pincode",
+    "Opensource",
+    "Automatic_form_filler",
+    "opensource"
+  ],
+  "author": "Abhushan A  Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhu-A-J/react-pincode-api/issues"
+  },
+  "homepage": "https://github.com/abhu-A-J/react-pincode-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
